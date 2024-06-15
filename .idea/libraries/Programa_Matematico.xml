@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Programa-Matematico">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/flatlaf-demo-2.6.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Programa Matemático.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
